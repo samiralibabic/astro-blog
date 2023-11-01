@@ -1,5 +1,7 @@
 # A blog built with Astro
 
+![screenshot](screenshot.png)
+
 ## 💻 Install
 
 ```sh
